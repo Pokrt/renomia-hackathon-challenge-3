@@ -1,6 +1,20 @@
-# Challenge 3: Vehicle Pricing — Special Vehicles (>3.5t)
-
 ---
+marp: true
+theme: default
+paginate: false
+style: |
+  section {
+    font-size: 22px;
+    padding: 30px 40px;
+  }
+  h1 { font-size: 36px; margin-bottom: 10px; }
+  h2 { font-size: 26px; margin-top: 10px; margin-bottom: 5px; }
+  table { font-size: 18px; }
+  pre { font-size: 16px; }
+  ul { margin-top: 2px; margin-bottom: 2px; }
+---
+
+# Challenge 3: Vehicle Pricing — Special Vehicles (>3.5t)
 
 ## Architecture
 
