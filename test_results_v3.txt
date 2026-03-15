@@ -1,0 +1,510 @@
+Running 60 test cases against http://localhost:8080/solve
+======================================================================
+
+[0] Krone SD (2024) - Návěs
+    Expected: 1,250,000 CZK
+    Got:      1,250,000 CZK (+0.0%)
+    Sources:  5
+    Range:    937,500 - 1,598,750
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (71.7s)
+
+[1] MAN TGL 10.180 (2010) - Nákladní automobil
+    Expected: 350,000 CZK
+    Got:      350,000 CZK (+0.0%)
+    Sources:  5
+    Range:    62,500 - 437,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (37.5s)
+
+[2] MAN TGX (2020) - Tahač návěsů
+    Expected: 650,000 CZK
+    Got:      810,000 CZK (+24.6%)
+    Sources:  5
+    Range:    607,500 - 1,012,500
+    Scores:   accuracy=0.63  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    0.82 / 1.00  (36.5s)
+
+[3] IVECO Daily 70C15 (2014) - Nákladní automobil
+    Expected: 420,000 CZK
+    Got:      420,000 CZK (+0.0%)
+    Sources:  5
+    Range:    315,000 - 622,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (60.6s)
+
+[4] IVECO 190EL (2015) - Nákladní automobil
+    Expected: 470,000 CZK
+    Got:      470,000 CZK (+0.0%)
+    Sources:  5
+    Range:    352,500 - 680,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (46.0s)
+
+[5] IVECO ML 100E19 (2017) - Nákladní automobil
+    Expected: 530,000 CZK
+    Got:      530,000 CZK (+0.0%)
+    Sources:  5
+    Range:    272,500 - 1,248,750
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (31.1s)
+
+[6] IVECO ML 100E19 (2017) - Nákladní automobil
+    Expected: 530,000 CZK
+    Got:      530,000 CZK (+0.0%)
+    Sources:  5
+    Range:    397,500 - 1,248,750
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (0.0s)
+
+[7] Iveco Stralis (2009) - Tahač návěsů
+    Expected: 200,000 CZK
+    Got:      200,000 CZK (+0.0%)
+    Sources:  5
+    Range:    150,000 - 322,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (15.8s)
+
+[8] Iveco Stralis (2014) - Tahač návěsů
+    Expected: 300,000 CZK
+    Got:      300,000 CZK (+0.0%)
+    Sources:  5
+    Range:    162,500 - 375,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (16.8s)
+
+[9] MAN L.2007.46.011 (2019) - Nákladní automobil (vč. mrazírenské nástavby)
+    Expected: 760,000 CZK
+    Got:      1,000,000 CZK (+31.6%)
+    Sources:  5
+    Range:    532,500 - 1,250,000
+    Scores:   accuracy=0.46  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    0.73 / 1.00  (61.2s)
+
+[10] MAN L.2007.46.011 (2019) - Nákladní automobil (vč. mrazírenské nástavby)
+    Expected: 760,000 CZK
+    Got:      1,064,000 CZK (+40.0%)
+    Sources:  5
+    Range:    722,500 - 1,330,000
+    Scores:   accuracy=0.25  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    0.62 / 1.00  (28.5s)
+
+[11] Krone SD (2019) - Návěs
+    Expected: 650,000 CZK
+    Got:      650,000 CZK (+0.0%)
+    Sources:  5
+    Range:    199,725 - 812,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (18.9s)
+
+[12] MAN L.2007.46.011 (2019) - Nákladní automobil
+    Expected: 760,000 CZK
+    Got:      760,000 CZK (+0.0%)
+    Sources:  5
+    Range:    419,750 - 950,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (33.6s)
+
+[13] MAN L.2007.46.003 (2019) - Nákladní automobil (vč. nástavby)
+    Expected: 1,600,000 CZK
+    Got:      1,600,000 CZK (+0.0%)
+    Sources:  5
+    Range:    942,500 - 2,638,312
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (26.7s)
+
+[14] Krone SD DA06CLNF (2020) - Návěs
+    Expected: 700,000 CZK
+    Got:      700,000 CZK (+0.0%)
+    Sources:  5
+    Range:    297,786 - 875,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (32.6s)
+
+[15] Toyota Proace City Verso (2022) - Osobní automobil
+    Expected: 475,000 CZK
+    Got:      475,000 CZK (+0.0%)
+    Sources:  5
+    Range:    356,250 - 593,750
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (22.7s)
+
+[16] IVECO AS440ST/P (2020) - Tahač návěsů
+    Expected: 650,000 CZK
+    Got:      650,000 CZK (+0.0%)
+    Sources:  5
+    Range:    435,000 - 1,500,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (38.1s)
+
+[17] Krone SD (2019) - Návěs
+    Expected: 650,000 CZK
+    Got:      650,000 CZK (+0.0%)
+    Sources:  5
+    Range:    125,000 - 812,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (20.3s)
+
+[18] MAN TGX (2016) - Tahač návěsů
+    Expected: 365,000 CZK
+    Got:      360,000 CZK (-1.4%)
+    Sources:  6
+    Range:    260,050 - 870,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (21.7s)
+
+[19] MAN TGX (2017) - Tahač návěsů
+    Expected: 390,000 CZK
+    Got:      390,000 CZK (+0.0%)
+    Sources:  5
+    Range:    205,000 - 487,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (54.1s)
+
+[20] MAN TGL (2022) - Nákladní automobil (vč. mrazírenské nástavby)
+    Expected: 1,300,000 CZK
+    Got:      1,300,000 CZK (+0.0%)
+    Sources:  5
+    Range:    975,000 - 1,625,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (0.0s)
+
+[21] IVECO AS440ST/P (2022) - Tahač návěsů
+    Expected: 1,000,000 CZK
+    Got:      1,000,000 CZK (+0.0%)
+    Sources:  5
+    Range:    737,500 - 1,811,261
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (33.0s)
+
+[22] Toyota Proace City Verso (2022) - Osobní automobil
+    Expected: 475,000 CZK
+    Got:      475,000 CZK (+0.0%)
+    Sources:  5
+    Range:    356,250 - 593,750
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (24.8s)
+
+[23] Iveco 120E (2022) - Nákladní automobil
+    Expected: 1,150,000 CZK
+    Got:      1,150,000 CZK (+0.0%)
+    Sources:  5
+    Range:    862,500 - 2,400,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (43.3s)
+
+[24] IVECO 35C18 (2023) - Užitkový automobil
+    Expected: 1,100,000 CZK
+    Got:      1,100,000 CZK (+0.0%)
+    Sources:  5
+    Range:    748,750 - 1,375,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (27.6s)
+
+[25] Iveco AT440XT/P (2023) - Tahač návěsů
+    Expected: 1,500,000 CZK
+    Got:      1,500,000 CZK (+0.0%)
+    Sources:  5
+    Range:    1,125,000 - 2,472,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (21.1s)
+
+[26] IVECO 35C18 (2023) - Užitkový automobil (vč.chladírenské nástavby)
+    Expected: 1,100,000 CZK
+    Got:      1,100,000 CZK (+0.0%)
+    Sources:  5
+    Range:    810,000 - 1,433,750
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (40.4s)
+
+[27] IVECO 35C18 (2023) - Užitkový automobil (vč. klimatizované nástavby)
+    Expected: 1,100,000 CZK
+    Got:      1,100,000 CZK (+0.0%)
+    Sources:  5
+    Range:    687,500 - 1,375,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (24.2s)
+
+[28] IVECO 180E (2023) - Nákladní automobil (vč.chladírenské nástavby)
+    Expected: 2,200,000 CZK
+    Got:      2,200,000 CZK (+0.0%)
+    Sources:  5
+    Range:    697,500 - 2,750,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (24.1s)
+
+[29] IVECO 35C18 (2023) - Užitkový automobil (vč.chladírenské nástavby)
+    Expected: 1,100,000 CZK
+    Got:      1,100,000 CZK (+0.0%)
+    Sources:  5
+    Range:    687,500 - 1,650,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (49.2s)
+
+[30] IVECO AS440T/P (2018) - Tahač návěsů
+    Expected: 700,000 CZK
+    Got:      700,000 CZK (+0.0%)
+    Sources:  5
+    Range:    297,500 - 950,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (24.2s)
+
+[31] Krone SD (2023) - Návěs
+    Expected: 1,000,000 CZK
+    Got:      1,000,000 CZK (+0.0%)
+    Sources:  5
+    Range:    472,500 - 1,250,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (58.4s)
+
+[32] Toyota Proace City Verso (2023) - Osobní automobil
+    Expected: 480,000 CZK
+    Got:      480,000 CZK (+0.0%)
+    Sources:  5
+    Range:    286,075 - 631,225
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (29.5s)
+
+[33] MAN L.2007.46.001 TGX (2016) - Tahač návěsů
+    Expected: 360,000 CZK
+    Got:      360,000 CZK (+0.0%)
+    Sources:  5
+    Range:    222,500 - 450,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (25.7s)
+
+[34] IVECO AS440ST/P (2023) - Tahač návěsů
+    Expected: 1,500,000 CZK
+    Got:      1,500,000 CZK (+0.0%)
+    Sources:  5
+    Range:    1,125,000 - 2,571,250
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (14.3s)
+
+[35] IVECO AS440ST/FP (2021) - Tahač návěsů
+    Expected: 800,000 CZK
+    Got:      800,000 CZK (+0.0%)
+    Sources:  5
+    Range:    600,000 - 1,125,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (36.8s)
+
+[36] Iveco Daily (2024) - Užitkový automobil
+    Expected: 1,439,000 CZK
+    Got:      1,439,000 CZK (+0.0%)
+    Sources:  5
+    Range:    712,690 - 1,798,750
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (26.1s)
+
+[37] MAN TGX (2015) - Tahač návěsů
+    Expected: 310,000 CZK
+    Got:      310,000 CZK (+0.0%)
+    Sources:  5
+    Range:    205,000 - 387,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (24.3s)
+
+[38] MAN TGX (2017) - Tahač návěsů
+    Expected: 390,000 CZK
+    Got:      390,000 CZK (+0.0%)
+    Sources:  5
+    Range:    292,500 - 487,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (20.3s)
+
+[39] IVECO AS440ST/P (2021) - Tahač návěsů
+    Expected: 1,300,000 CZK
+    Got:      1,300,000 CZK (+0.0%)
+    Sources:  5
+    Range:    658,125 - 1,625,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (64.3s)
+
+[40] IVECO AS440S46 T/P (2018) - Nákladní automobil
+    Expected: 700,000 CZK
+    Got:      720,000 CZK (+2.9%)
+    Sources:  5
+    Range:    297,500 - 900,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (51.3s)
+
+[41] IVECO AS440T/P (2017) - Tahač návěsů
+    Expected: 450,000 CZK
+    Got:      450,000 CZK (+0.0%)
+    Sources:  5
+    Range:    312,500 - 600,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (15.6s)
+
+[42] MAN TGX (2019) - Tahač návěsů
+    Expected: 620,000 CZK
+    Got:      620,000 CZK (+0.0%)
+    Sources:  5
+    Range:    465,000 - 775,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (19.9s)
+
+[43] IVECO AS440T/P (2020) - Tahač návěsů
+    Expected: 800,000 CZK
+    Got:      800,000 CZK (+0.0%)
+    Sources:  5
+    Range:    450,000 - 1,000,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (43.1s)
+
+[44] MAN TGX (2017) - Tahač návěsů
+    Expected: 390,000 CZK
+    Got:      390,000 CZK (+0.0%)
+    Sources:  5
+    Range:    292,500 - 1,318,750
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (26.0s)
+
+[45] MAN TGX (2021) - Tahač návěsů
+    Expected: 1,200,000 CZK
+    Got:      1,200,000 CZK (+0.0%)
+    Sources:  5
+    Range:    900,000 - 1,500,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (19.2s)
+
+[46] MAN TGX (2021) - Tahač návěsů
+    Expected: 1,200,000 CZK
+    Got:      1,200,000 CZK (+0.0%)
+    Sources:  5
+    Range:    698,750 - 1,500,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (34.0s)
+
+[47] KRONE COOL LINER (2020) - Návěs
+    Expected: 700,000 CZK
+    Got:      700,000 CZK (+0.0%)
+    Sources:  5
+    Range:    497,500 - 875,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (14.0s)
+
+[48] Krone SD (2023) - Návěs
+    Expected: 850,000 CZK
+    Got:      1,000,000 CZK (+17.6%)
+    Sources:  5
+    Range:    395,000 - 1,250,000
+    Scores:   accuracy=0.81  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    0.90 / 1.00  (25.6s)
+
+[49] IVECO AS440ST/P (2020) - Nákladní automobil
+    Expected: 800,000 CZK
+    Got:      1,450,000 CZK (+81.2%)
+    Sources:  5
+    Range:    799,975 - 1,812,500
+    Scores:   accuracy=0.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    0.50 / 1.00  (39.8s)
+
+[50] IVECO AS440ST/P (2022) - Tahač návěsů
+    Expected: 1,100,000 CZK
+    Got:      1,000,000 CZK (-9.1%)
+    Sources:  5
+    Range:    750,000 - 1,487,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (50.8s)
+
+[51] Krone SD (2022) - Návěs
+    Expected: 900,000 CZK
+    Got:      900,000 CZK (+0.0%)
+    Sources:  5
+    Range:    390,000 - 1,125,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (31.2s)
+
+[52] Krone SD (2023) - Návěs
+    Expected: 1,000,000 CZK
+    Got:      1,000,000 CZK (+0.0%)
+    Sources:  5
+    Range:    459,000 - 1,250,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (37.4s)
+
+[53] MAN TGL (2022) - Nákladní automobil (vč. mrazírenské nástavby)
+    Expected: 1,300,000 CZK
+    Got:      1,300,000 CZK (+0.0%)
+    Sources:  5
+    Range:    975,000 - 1,625,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (22.7s)
+
+[54] Iveco 50C/35 (2021) - Užitkový automobil (vč. chladírenské nástavby)
+    Expected: 730,000 CZK
+    Got:      730,000 CZK (+0.0%)
+    Sources:  5
+    Range:    547,500 - 912,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (0.0s)
+
+[55] Iveco 50C/35 (2025) - Užitkový automobil
+    Expected: 1,479,000 CZK
+    Got:      1,479,000 CZK (+0.0%)
+    Sources:  5
+    Range:    1,072,500 - 1,848,750
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (35.9s)
+
+[56] MAN L.2007.46.001 TGX (2016) - Traktor (přestavba z tahače na traktor, spojovací zařízení třídy G)
+    Expected: 400,000 CZK
+    Got:      400,000 CZK (+0.0%)
+    Sources:  5
+    Range:    172,500 - 587,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (0.0s)
+
+[57] Iveco Stralis AT440S46T/P (2016) - Traktor (přestavba z tahače na traktor, spojovací zařízení třídy G)
+    Expected: 400,000 CZK
+    Got:      400,000 CZK (+0.0%)
+    Sources:  5
+    Range:    179,750 - 650,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (21.1s)
+
+[58] IVECO AS440XT/P (2020) - Traktor (přestavba z tahače na traktor, spojovací zařízení třídy G)
+    Expected: 700,000 CZK
+    Got:      700,000 CZK (+0.0%)
+    Sources:  5
+    Range:    450,000 - 1,572,225
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (24.6s)
+
+[59] Iveco AD 260TW (2021) - Traktor (nástavba: nosič kontejnerů)
+    Expected: 2,500,000 CZK
+    Got:      2,500,000 CZK (+0.0%)
+    Sources:  5
+    Range:    1,875,000 - 3,125,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (36.5s)
+
+======================================================================
+SUMMARY: 60/60 successful
+Total time: 1835.0s (avg 30.6s per request)
+
+Average scores:
+  Price accuracy (50%): 0.953
+  Sources (25%):        1.000
+  Price range (15%):    1.000
+  Currency (10%):       1.000
+  ─────────────────────────────
+  WEIGHTED TOTAL:       0.976 / 1.000
+
+Accuracy breakdown:
+  Perfect (±10%): 55/60
+  Good (±20%):    56/60
+  Bad (>±40%):    2/60
+
+Worst 5 by accuracy:
+  Expected    800,000  Got  1,450,000  (+81.2%)  score=0.00
+  Expected    760,000  Got  1,064,000  (+40.0%)  score=0.25
+  Expected    760,000  Got  1,000,000  (+31.6%)  score=0.46
+  Expected    650,000  Got    810,000  (+24.6%)  score=0.63
+  Expected    850,000  Got  1,000,000  (+17.6%)  score=0.81
+
+Gemini token usage:
+  Requests: 60
+  Total tokens: 797895

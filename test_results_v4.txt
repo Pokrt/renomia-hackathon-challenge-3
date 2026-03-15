@@ -1,0 +1,285 @@
+Running 60 test cases against http://localhost:8080/solve
+======================================================================
+
+[0] Krone SD (2024) - Návěs
+    Expected: 1,250,000 CZK
+    Got:      1,250,000 CZK (+0.0%)
+    Sources:  5
+    Range:    192,500 - 1,562,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (30.2s)
+
+[1] MAN TGL 10.180 (2010) - Nákladní automobil
+    Expected: 350,000 CZK
+    Got:      350,000 CZK (+0.0%)
+    Sources:  5
+    Range:    237,250 - 710,000
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (24.4s)
+
+[2] MAN TGX (2020) - Tahač návěsů
+    Expected: 650,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[3] IVECO Daily 70C15 (2014) - Nákladní automobil
+    Expected: 420,000 CZK
+    Got:      420,000 CZK (+0.0%)
+    Sources:  5
+    Range:    315,000 - 562,500
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (34.7s)
+
+[4] IVECO 190EL (2015) - Nákladní automobil
+    Expected: 470,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[5] IVECO ML 100E19 (2017) - Nákladní automobil
+    Expected: 530,000 CZK
+    Got:      530,000 CZK (+0.0%)
+    Sources:  5
+    Range:    272,500 - 1,248,750
+    Scores:   accuracy=1.00  sources=1.00  range=1.00  currency=1.00
+    TOTAL:    1.00 / 1.00  (27.4s)
+
+[6] IVECO ML 100E19 (2017) - Nákladní automobil
+    Expected: 530,000 CZK
+    ERROR: timed out
+
+[7] Iveco Stralis (2009) - Tahač návěsů
+    Expected: 200,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[8] Iveco Stralis (2014) - Tahač návěsů
+    Expected: 300,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[9] MAN L.2007.46.011 (2019) - Nákladní automobil (vč. mrazírenské nástavby)
+    Expected: 760,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[10] MAN L.2007.46.011 (2019) - Nákladní automobil (vč. mrazírenské nástavby)
+    Expected: 760,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[11] Krone SD (2019) - Návěs
+    Expected: 650,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[12] MAN L.2007.46.011 (2019) - Nákladní automobil
+    Expected: 760,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[13] MAN L.2007.46.003 (2019) - Nákladní automobil (vč. nástavby)
+    Expected: 1,600,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[14] Krone SD DA06CLNF (2020) - Návěs
+    Expected: 700,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[15] Toyota Proace City Verso (2022) - Osobní automobil
+    Expected: 475,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[16] IVECO AS440ST/P (2020) - Tahač návěsů
+    Expected: 650,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[17] Krone SD (2019) - Návěs
+    Expected: 650,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[18] MAN TGX (2016) - Tahač návěsů
+    Expected: 365,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[19] MAN TGX (2017) - Tahač návěsů
+    Expected: 390,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[20] MAN TGL (2022) - Nákladní automobil (vč. mrazírenské nástavby)
+    Expected: 1,300,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[21] IVECO AS440ST/P (2022) - Tahač návěsů
+    Expected: 1,000,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[22] Toyota Proace City Verso (2022) - Osobní automobil
+    Expected: 475,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[23] Iveco 120E (2022) - Nákladní automobil
+    Expected: 1,150,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[24] IVECO 35C18 (2023) - Užitkový automobil
+    Expected: 1,100,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[25] Iveco AT440XT/P (2023) - Tahač návěsů
+    Expected: 1,500,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[26] IVECO 35C18 (2023) - Užitkový automobil (vč.chladírenské nástavby)
+    Expected: 1,100,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[27] IVECO 35C18 (2023) - Užitkový automobil (vč. klimatizované nástavby)
+    Expected: 1,100,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[28] IVECO 180E (2023) - Nákladní automobil (vč.chladírenské nástavby)
+    Expected: 2,200,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[29] IVECO 35C18 (2023) - Užitkový automobil (vč.chladírenské nástavby)
+    Expected: 1,100,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[30] IVECO AS440T/P (2018) - Tahač návěsů
+    Expected: 700,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[31] Krone SD (2023) - Návěs
+    Expected: 1,000,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[32] Toyota Proace City Verso (2023) - Osobní automobil
+    Expected: 480,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[33] MAN L.2007.46.001 TGX (2016) - Tahač návěsů
+    Expected: 360,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[34] IVECO AS440ST/P (2023) - Tahač návěsů
+    Expected: 1,500,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[35] IVECO AS440ST/FP (2021) - Tahač návěsů
+    Expected: 800,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[36] Iveco Daily (2024) - Užitkový automobil
+    Expected: 1,439,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[37] MAN TGX (2015) - Tahač návěsů
+    Expected: 310,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[38] MAN TGX (2017) - Tahač návěsů
+    Expected: 390,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[39] IVECO AS440ST/P (2021) - Tahač návěsů
+    Expected: 1,300,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[40] IVECO AS440S46 T/P (2018) - Nákladní automobil
+    Expected: 700,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[41] IVECO AS440T/P (2017) - Tahač návěsů
+    Expected: 450,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[42] MAN TGX (2019) - Tahač návěsů
+    Expected: 620,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[43] IVECO AS440T/P (2020) - Tahač návěsů
+    Expected: 800,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[44] MAN TGX (2017) - Tahač návěsů
+    Expected: 390,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[45] MAN TGX (2021) - Tahač návěsů
+    Expected: 1,200,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[46] MAN TGX (2021) - Tahač návěsů
+    Expected: 1,200,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[47] KRONE COOL LINER (2020) - Návěs
+    Expected: 700,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[48] Krone SD (2023) - Návěs
+    Expected: 850,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[49] IVECO AS440ST/P (2020) - Nákladní automobil
+    Expected: 800,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[50] IVECO AS440ST/P (2022) - Tahač návěsů
+    Expected: 1,100,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[51] Krone SD (2022) - Návěs
+    Expected: 900,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[52] Krone SD (2023) - Návěs
+    Expected: 1,000,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[53] MAN TGL (2022) - Nákladní automobil (vč. mrazírenské nástavby)
+    Expected: 1,300,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[54] Iveco 50C/35 (2021) - Užitkový automobil (vč. chladírenské nástavby)
+    Expected: 730,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[55] Iveco 50C/35 (2025) - Užitkový automobil
+    Expected: 1,479,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[56] MAN L.2007.46.001 TGX (2016) - Traktor (přestavba z tahače na traktor, spojovací zařízení třídy G)
+    Expected: 400,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[57] Iveco Stralis AT440S46T/P (2016) - Traktor (přestavba z tahače na traktor, spojovací zařízení třídy G)
+    Expected: 400,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[58] IVECO AS440XT/P (2020) - Traktor (přestavba z tahače na traktor, spojovací zařízení třídy G)
+    Expected: 700,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+[59] Iveco AD 260TW (2021) - Traktor (nástavba: nosič kontejnerů)
+    Expected: 2,500,000 CZK
+    ERROR: Expecting value: line 1 column 1 (char 0)
+
+======================================================================
+SUMMARY: 4/60 successful
+Total time: 116.7s (avg 1.9s per request)
+
+Average scores:
+  Price accuracy (50%): 1.000
+  Sources (25%):        1.000
+  Price range (15%):    1.000
+  Currency (10%):       1.000
+  ─────────────────────────────
+  WEIGHTED TOTAL:       1.000 / 1.000
+
+Accuracy breakdown:
+  Perfect (±10%): 4/4
+  Good (±20%):    4/4
+  Bad (>±40%):    0/4
+
+Worst 5 by accuracy:
+  Expected  1,250,000  Got  1,250,000  (+0.0%)  score=1.00
+  Expected    350,000  Got    350,000  (+0.0%)  score=1.00
+  Expected    420,000  Got    420,000  (+0.0%)  score=1.00
+  Expected    530,000  Got    530,000  (+0.0%)  score=1.00
+
+Gemini token usage:
+  Requests: 6
+  Total tokens: 65864
